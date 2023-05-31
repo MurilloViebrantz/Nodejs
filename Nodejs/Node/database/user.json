@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "nome": "Indiana",
+        "sobrenome": "Jones",
+        "dataNascimento": "15/07/1990",
+        "telefone": 41000000000,
+        "endereco": "Rua Qualquer, 750",
+        "cidade": "São Jose dos Pinhais",
+        "estado": "PR",
+        "status": true
+    },
+    {
+        "id": 2,
+        "nome": "Pablo",
+        "sobrenome": "Escobar",
+        "dataNascimento": "11/02/1983",
+        "telefone": 21000000000,
+        "endereco": "Morro da Rocinha, viela 2, 789",
+        "cidade": "Rio de Janeiro",
+        "estado": "RJ",
+        "status": true
+    },
+    {
+        "id": 3,
+        "nome": "Claudinho",
+        "sobrenome": "Brasil",
+        "dataNascimento": "20/10/1991",
+        "telefone": 41000000000,
+        "endereco": "Estrada do Ganchinho, 3",
+        "cidade": "Curitiba",
+        "estado": "PR",
+        "status": true
+    }
+    
+    
+]
